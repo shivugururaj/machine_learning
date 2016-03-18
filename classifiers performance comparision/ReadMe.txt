@@ -1,7 +1,12 @@
 Shivu Gururaj - sxg144730
 
-The file name assignment.R
+The file name is classifiers.R
 
+————————————————————————————————————
+Classifiers implemented:
+
+Decision TreeNaive BayesianSupport Vector MachineNeural NetworkPerceptron
+————————————————————————————————————
 I have used the following packages
 
 #install.packages("e1071")
@@ -9,7 +14,7 @@ I have used the following packages
 #install.packages("neuralnet")
 #install.packages("rpart")
 #install.packages("nnet")
-
+————————————————————————————————————
 Datasets can be found in the following links:
 
 dataSet1 <- "http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data"
@@ -17,6 +22,7 @@ dataSet2 <- "http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.
 dataSet3 <- "http://archive.ics.uci.edu/ml/machine-learning-databases/00194/sensor_readings_2.data"
 dataSet4 <- "http://archive.ics.uci.edu/ml/machine-learning-databases/soybean/soybean-small.data"
 dataSet5 <- "http://archive.ics.uci.edu/ml/machine-learning-databases/postoperative-patient-data/post-operative.data"
+————————————————————————————————————
 
 The code runs perfectly withouit errors when run in RStudio.
 

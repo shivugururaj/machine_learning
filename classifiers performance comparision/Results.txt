@@ -1,0 +1,60 @@
+Testing =  1 
+Classifier =  Decision Tree , Accuracy =  80.55555556 
+Classifier =  Naive Bayesian , Accuracy =  83.33333333 
+Classifier =  Support Vector Machine , Accuracy =  83.33333333 
+Classifier =  Neural Network , Accuracy =  86.11111111 
+Classifier =  Perceptron , Accuracy =  80.55555556 
+ Testing =  2 
+Classifier =  Decision Tree , Accuracy =  94.44444444 
+Classifier =  Naive Bayesian , Accuracy =  83.33333333 
+Classifier =  Support Vector Machine , Accuracy =  80.55555556 
+Classifier =  Neural Network , Accuracy =  86.11111111 
+Classifier =  Perceptron , Accuracy =  88.88888889 
+ Testing =  1 
+Classifier =  Decision Tree , Accuracy =  93.33333333 
+Classifier =  Naive Bayesian , Accuracy =  100 
+Classifier =  Support Vector Machine , Accuracy =  93.33333333 
+Classifier =  Neural Network , Accuracy =  93.33333333 
+Classifier =  Perceptron , Accuracy =  80 
+ Testing =  2 
+Classifier =  Decision Tree , Accuracy =  100 
+Classifier =  Naive Bayesian , Accuracy =  100 
+Classifier =  Support Vector Machine , Accuracy =  100 
+Classifier =  Neural Network , Accuracy =  100 
+Classifier =  Perceptron , Accuracy =  46.66666667 
+ Testing =  1 
+Classifier =  Decision Tree , Accuracy =  100 
+Classifier =  Naive Bayesian , Accuracy =  91.75824176 
+Classifier =  Support Vector Machine , Accuracy =  96.88644689 
+Classifier =  Neural Network , Accuracy =  78.75457875 
+Classifier =  Perceptron , Accuracy =  38.46153846 
+ Testing =  2 
+Classifier =  Decision Tree , Accuracy =  100 
+Classifier =  Naive Bayesian , Accuracy =  90.65934066 
+Classifier =  Support Vector Machine , Accuracy =  95.6043956 
+Classifier =  Neural Network , Accuracy =  63.003663 
+Classifier =  Perceptron , Accuracy =  39.92673993 
+ Testing =  1 
+Classifier =  Decision Tree , Accuracy =  100 
+Classifier =  Naive Bayesian , Accuracy =  100 
+Classifier =  Support Vector Machine , Accuracy =  100 
+Classifier =  Neural Network , Accuracy =  100 
+Classifier =  Perceptron , Accuracy =  60 
+ Testing =  2 
+Classifier =  Decision Tree , Accuracy =  80 
+Classifier =  Naive Bayesian , Accuracy =  100 
+Classifier =  Support Vector Machine , Accuracy =  100 
+Classifier =  Neural Network , Accuracy =  80 
+Classifier =  Perceptron , Accuracy =  60 
+ Testing =  1 
+Classifier =  Decision Tree , Accuracy =  66.66666667 
+Classifier =  Naive Bayesian , Accuracy =  66.66666667 
+Classifier =  Support Vector Machine , Accuracy =  66.66666667 
+Classifier =  Neural Network , Accuracy =  66.66666667 
+Classifier =  Perceptron , Accuracy =  66.66666667 
+ Testing =  2 
+Classifier =  Decision Tree , Accuracy =  55.55555556 
+Classifier =  Naive Bayesian , Accuracy =  77.77777778 
+Classifier =  Support Vector Machine , Accuracy =  66.66666667 
+Classifier =  Neural Network , Accuracy =  55.55555556 
+Classifier =  Perceptron , Accuracy =  66.66666667 
